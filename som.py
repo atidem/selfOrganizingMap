@@ -6,7 +6,6 @@ Created on Thu Apr  2 12:28:20 2020
 """
 ## spyder da kodlanmıştır.
 ## epoch değerini değiştirebilirsiniz 
-## her formül ilgili haftanın slaytındakilerle birebir aynıdır.
 
 from math import exp,log
 from random import random,shuffle,sample
